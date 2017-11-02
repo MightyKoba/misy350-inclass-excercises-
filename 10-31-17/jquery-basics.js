@@ -5,7 +5,7 @@ function main () {
 
 $('#google').html('Goooogle');
 let links = $('.my-link');
-//document.getElementById('google').innerHTML = "Google";
+//document.getElementById('google').innerHTML = "Google";s
 // let links =  document.getElementByClasssName('my-link');
 links[0].innerHTML = "Twitter";
 links[0].href = "http://www.twitter.com";
